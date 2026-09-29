@@ -1,7 +1,7 @@
 
 # 📘 Assignment: Hangman Game
 
-## 🎯 Objectivo
+## 🎯 Objetivo
 
 Construa o clássico jogo de adivinhar palavras em Python, praticando manipulação de strings, loops, condicionais, entrada de dados e seleção aleatória.
 
